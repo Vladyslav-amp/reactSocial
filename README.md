@@ -1,70 +1,52 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Social_React
 
-## Available Scripts
+This project is aimed more at training skills. Every React individual component has been written with BEM methodology. Due to its versatility, this component can be used in another project as part of the missing code (ex. Adding product to the list or Log-in/out form). 
+There are 5 main section:
 
-In the project directory, you can run:
+ - Product 
 
-### `npm start`
+ - Customers 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ - Income 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ - Promote 
 
-### `npm test`
+ - Help
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Product
+##### Soon...
 
-### `npm run build`
+### Customers
+This section show customers list with personal information and we can find some user by his name, city or phone.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+CustomersData I get from my .json file, also I can get data from api using fetch. For creating Table component I used React library - React-table. Its allows to stay flexible and functionaly table`s element. I wrote a functions that return props should be assigned in table elements (thead, tr, tdoby, td), this function get all users from CustomersData by "ID".
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Also I created table block with pagination and filter in Javascript without React Hooks.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+In search block i used React Hook - useGlobalFilter. The global filter allows the user to filter data in all columns at once, which is useful for tables containing a large amount of information.
 
-### `npm run eject`
+In pagination block, I created a : 
+- simply function for showing all pages 
+- function generatePageButtons which generate
+- simply navigate buttons
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+It`s not ready block yet, need to fix and add some style for table.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Income
+##### Soon...
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Promote
+##### Soon...
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Help
+##### Soon...
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Demo
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[DEMO LINK]
 
-### Code Splitting
+## 🛠 Skills
+React (Hooks), JavaScript, SASS, HTML
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

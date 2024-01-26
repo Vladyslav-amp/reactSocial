@@ -1,0 +1,132 @@
+.navigation {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  row-gap: 600px;
+  height: 100%;
+  padding-inline: 28px;
+  padding-block: 36px 76px;
+
+  &__title {
+    display: flex;
+    padding-bottom: 65px;
+
+    &-logo {
+      padding-right: 8px;
+    }
+
+    &-block {
+      display: flex;
+    }
+
+    &-head {
+      color: #000;
+      font-family: "Poppins", sans-serif;
+      font-size: 26px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      letter-spacing: 0.26px;
+    }
+
+    &-span {
+      color: #838383;
+      font-family: "Poppins", sans-serif;
+      font-size: 10px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      letter-spacing: -0.1px;
+      padding-left: 4px;
+    }
+  }
+
+
+  &__block {
+    display: flex;
+    flex-direction: column;
+    row-gap: 43px;
+  }
+
+  &__link {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+    width: 100%;
+    padding: 11px 0 11px 11px;
+  
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.14px;
+
+    &--active {
+      position: relative;
+      display: grid;
+      grid-template-columns: 1fr 2fr 1fr;
+      align-items: center;
+      width: 100%;
+      padding: 11px 0 11px 11px;
+
+      color: #FFF;
+      text-decoration: none;
+      width: 100%;
+      font-family: "Poppins", sans-serif;
+      border-radius: 8px;
+      background: #5932EA;
+
+      & svg {
+        path {
+          stroke: #fff;
+        }
+      }
+    }
+  }
+
+  &__icon {
+    &--arrow {
+      position: absolute;
+      right: 8px;
+    }
+  }
+
+  &__user {
+    display: flex;
+
+    &-block {
+      &--bottom {
+        padding-left: 12px;
+      }
+    }
+
+    &-head {
+      color: #000;
+      font-family: Poppins;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      letter-spacing: 0.14px;
+    }
+
+    &-about {
+      color: #757575;
+      font-family: Poppins;
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      letter-spacing: 0.12px;
+    }
+  }
+}
+
+.aside {
+  overflow-y: none;
+  background-color: #eee;
+  box-shadow: 0px 10px 60px 0px rgba(226, 236, 249, 0.50);
+}

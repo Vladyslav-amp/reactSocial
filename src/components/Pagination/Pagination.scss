@@ -1,0 +1,14 @@
+.Pagination {
+  &__list {
+    list-style: none;
+    display: flex;
+
+    &-item {
+      padding: 6px 9px;
+      border-radius: 4px;
+      border: 1px solid #EEE;
+      background: #F5F5F5;
+      cursor: pointer;
+    }
+  }
+}
