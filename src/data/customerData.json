@@ -6,7 +6,7 @@
 		"customerPhone": "(467) 864-7185",
 		"customerEmail": "solomonmason5815@yahoo.org",
 		"customerCountry": "Nigeria",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 2,
@@ -15,7 +15,7 @@
 		"customerPhone": "(841) 228-0510",
 		"customerEmail": "brandenferrell@google.ca",
 		"customerCountry": "Peru",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 3,
@@ -24,7 +24,7 @@
 		"customerPhone": "(111) 826-7829",
 		"customerEmail": "traviscortez@tesla.couk",
 		"customerCountry": "Peru",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 4,
@@ -33,7 +33,7 @@
 		"customerPhone": "(754) 745-6550",
 		"customerEmail": "maceyenglish@microsoft.net",
 		"customerCountry": "Nigeria",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 5,
@@ -42,7 +42,7 @@
 		"customerPhone": "(405) 575-3672",
 		"customerEmail": "howardhammond36@tesla.edu",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 6,
@@ -51,7 +51,7 @@
 		"customerPhone": "(801) 256-5601",
 		"customerEmail": "caesarmueller@google.couk",
 		"customerCountry": "Philippines",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 7,
@@ -60,7 +60,7 @@
 		"customerPhone": "(753) 504-4631",
 		"customerEmail": "dariabradley@icloud.ca",
 		"customerCountry": "Spain",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 8,
@@ -69,7 +69,7 @@
 		"customerPhone": "(738) 584-6063",
 		"customerEmail": "melvinatkins@facebook.couk",
 		"customerCountry": "United Kingdom",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 9,
@@ -78,7 +78,7 @@
 		"customerPhone": "(342) 538-2861",
 		"customerEmail": "mackensiepickett1616@tesla.net",
 		"customerCountry": "Russian Federation",
-		"customerStatus": "active"
+		"customerStatus": false
 	},
 	{
 		"id": 10,
@@ -87,7 +87,7 @@
 		"customerPhone": "(867) 513-5896",
 		"customerEmail": "omarsantiago9167@google.com",
 		"customerCountry": "France",
-		"customerStatus": "active"
+		"customerStatus": false
 	},
 	{
 		"id": 11,
@@ -96,7 +96,7 @@
 		"customerPhone": "(915) 313-6347",
 		"customerEmail": "garymcknight9523@hotmail.com",
 		"customerCountry": "Spain",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 12,
@@ -105,7 +105,7 @@
 		"customerPhone": "(433) 768-2062",
 		"customerEmail": "sylviastokes@icloud.org",
 		"customerCountry": "China",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 13,
@@ -114,7 +114,7 @@
 		"customerPhone": "(691) 411-8165",
 		"customerEmail": "hayfasimon@icloud.couk",
 		"customerCountry": "France",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 14,
@@ -123,7 +123,7 @@
 		"customerPhone": "(307) 153-8835",
 		"customerEmail": "keikosmall@google.ca",
 		"customerCountry": "Mexico",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 15,
@@ -132,7 +132,7 @@
 		"customerPhone": "(426) 450-4751",
 		"customerEmail": "aristotlecastillo4147@tesla.org",
 		"customerCountry": "Spain",
-		"customerStatus": "active"
+		"customerStatus": false
 	},
 	{
 		"id": 16,
@@ -141,7 +141,7 @@
 		"customerPhone": "(573) 471-6531",
 		"customerEmail": "porterdawson@outlook.edu",
 		"customerCountry": "Indonesia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 17,
@@ -150,7 +150,7 @@
 		"customerPhone": "(264) 555-5376",
 		"customerEmail": "xandererickson@yahoo.com",
 		"customerCountry": "South Africa",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 18,
@@ -159,7 +159,7 @@
 		"customerPhone": "(382) 941-1962",
 		"customerEmail": "jannasalazar@hotmail.com",
 		"customerCountry": "Sweden",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 19,
@@ -168,7 +168,7 @@
 		"customerPhone": "(617) 318-4273",
 		"customerEmail": "mylesbernard9916@icloud.couk",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 20,
@@ -177,7 +177,7 @@
 		"customerPhone": "(293) 878-4329",
 		"customerEmail": "maryamatkinson@tesla.org",
 		"customerCountry": "New Zealand",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 21,
@@ -186,7 +186,7 @@
 		"customerPhone": "(686) 492-7136",
 		"customerEmail": "holleemueller9945@hotmail.com",
 		"customerCountry": "Colombia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 22,
@@ -195,7 +195,7 @@
 		"customerPhone": "(289) 480-5546",
 		"customerEmail": "kamalbell@microsoft.org",
 		"customerCountry": "Philippines",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 23,
@@ -204,7 +204,7 @@
 		"customerPhone": "(752) 371-5143",
 		"customerEmail": "howardjames@google.net",
 		"customerCountry": "India",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 24,
@@ -213,7 +213,7 @@
 		"customerPhone": "(246) 713-5074",
 		"customerEmail": "ahmedmann@icloud.ca",
 		"customerCountry": "Australia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 25,
@@ -222,7 +222,7 @@
 		"customerPhone": "(172) 383-5607",
 		"customerEmail": "buckminsterramirez@tesla.couk",
 		"customerCountry": "Australia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 26,
@@ -231,7 +231,7 @@
 		"customerPhone": "(321) 167-1423",
 		"customerEmail": "jacksongallegos@facebook.org",
 		"customerCountry": "Ukraine",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 27,
@@ -240,7 +240,7 @@
 		"customerPhone": "(756) 755-5802",
 		"customerEmail": "illianaperry2113@google.com",
 		"customerCountry": "United States",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 28,
@@ -249,7 +249,7 @@
 		"customerPhone": "(342) 108-1192",
 		"customerEmail": "kionafulton8983@hotmail.couk",
 		"customerCountry": "Poland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 29,
@@ -258,7 +258,7 @@
 		"customerPhone": "(673) 740-9328",
 		"customerEmail": "garyburgess@adobe.ca",
 		"customerCountry": "Canada",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 30,
@@ -267,7 +267,7 @@
 		"customerPhone": "(401) 597-7478",
 		"customerEmail": "basiaross5443@hotmail.com",
 		"customerCountry": "Pakistan",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 31,
@@ -276,7 +276,7 @@
 		"customerPhone": "(866) 425-6437",
 		"customerEmail": "mercedespreston@tesla.net",
 		"customerCountry": "United Kingdom",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 32,
@@ -285,7 +285,7 @@
 		"customerPhone": "(571) 972-6591",
 		"customerEmail": "biancameadows@tesla.couk",
 		"customerCountry": "Singapore",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 33,
@@ -294,7 +294,7 @@
 		"customerPhone": "(932) 395-8495",
 		"customerEmail": "heathercabrera3136@google.org",
 		"customerCountry": "Spain",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 34,
@@ -303,7 +303,7 @@
 		"customerPhone": "(784) 734-1557",
 		"customerEmail": "kerrykidd3164@google.net",
 		"customerCountry": "Peru",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 35,
@@ -312,7 +312,7 @@
 		"customerPhone": "(983) 235-7431",
 		"customerEmail": "stacymann6112@yahoo.edu",
 		"customerCountry": "Colombia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 36,
@@ -321,7 +321,7 @@
 		"customerPhone": "(744) 910-8675",
 		"customerEmail": "chloefuentes@adobe.ca",
 		"customerCountry": "Vietnam",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 37,
@@ -330,7 +330,7 @@
 		"customerPhone": "(869) 611-0860",
 		"customerEmail": "keeliegoodwin2000@hotmail.net",
 		"customerCountry": "Peru",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 38,
@@ -339,7 +339,7 @@
 		"customerPhone": "(266) 921-9356",
 		"customerEmail": "oliverthomas4122@yahoo.edu",
 		"customerCountry": "Turkey",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 39,
@@ -348,7 +348,7 @@
 		"customerPhone": "(775) 311-3284",
 		"customerEmail": "whileminabolton@tesla.couk",
 		"customerCountry": "Sweden",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 40,
@@ -357,7 +357,7 @@
 		"customerPhone": "(363) 715-4524",
 		"customerEmail": "kermitgiles@adobe.net",
 		"customerCountry": "South Africa",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 41,
@@ -366,7 +366,7 @@
 		"customerPhone": "(874) 537-9462",
 		"customerEmail": "buffyholloway4976@yahoo.com",
 		"customerCountry": "South Korea",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 42,
@@ -375,7 +375,7 @@
 		"customerPhone": "(317) 447-2678",
 		"customerEmail": "courtneyalbert6590@icloud.edu",
 		"customerCountry": "South Korea",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 43,
@@ -384,7 +384,7 @@
 		"customerPhone": "(790) 119-4411",
 		"customerEmail": "fletcherbowen8255@microsoft.net",
 		"customerCountry": "Austria",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 44,
@@ -393,7 +393,7 @@
 		"customerPhone": "(414) 978-5780",
 		"customerEmail": "allenwhitaker6415@microsoft.ca",
 		"customerCountry": "Mexico",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 45,
@@ -402,7 +402,7 @@
 		"customerPhone": "(287) 329-3127",
 		"customerEmail": "wendylindsey@facebook.org",
 		"customerCountry": "South Korea",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 46,
@@ -411,7 +411,7 @@
 		"customerPhone": "(314) 640-5689",
 		"customerEmail": "abbotriley1039@hotmail.couk",
 		"customerCountry": "Peru",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 47,
@@ -420,7 +420,7 @@
 		"customerPhone": "(464) 462-2872",
 		"customerEmail": "sylviabright8499@yahoo.edu",
 		"customerCountry": "Singapore",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 48,
@@ -429,7 +429,7 @@
 		"customerPhone": "(440) 229-7456",
 		"customerEmail": "henrybenton@google.net",
 		"customerCountry": "Spain",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 49,
@@ -438,7 +438,7 @@
 		"customerPhone": "(561) 771-1711",
 		"customerEmail": "oscardodson@adobe.couk",
 		"customerCountry": "Mexico",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 50,
@@ -447,7 +447,7 @@
 		"customerPhone": "(530) 623-9378",
 		"customerEmail": "melissasanders8818@tesla.ca",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 51,
@@ -456,7 +456,7 @@
 		"customerPhone": "(279) 428-9466",
 		"customerEmail": "briannadelacruz@hotmail.net",
 		"customerCountry": "United States",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 52,
@@ -465,7 +465,7 @@
 		"customerPhone": "(832) 187-5137",
 		"customerEmail": "danehead7141@yahoo.net",
 		"customerCountry": "Philippines",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 53,
@@ -474,7 +474,7 @@
 		"customerPhone": "(519) 557-4645",
 		"customerEmail": "andrewrush4138@google.edu",
 		"customerCountry": "Netherlands",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 54,
@@ -483,7 +483,7 @@
 		"customerPhone": "(501) 667-7386",
 		"customerEmail": "gemmasantos@adobe.edu",
 		"customerCountry": "Turkey",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 55,
@@ -492,7 +492,7 @@
 		"customerPhone": "(666) 816-2538",
 		"customerEmail": "mollygamble@outlook.com",
 		"customerCountry": "Ireland",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 56,
@@ -501,7 +501,7 @@
 		"customerPhone": "(382) 667-7672",
 		"customerEmail": "ishmaelgoodman@yahoo.ca",
 		"customerCountry": "Italy",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 57,
@@ -510,7 +510,7 @@
 		"customerPhone": "(914) 757-6304",
 		"customerEmail": "bertburns@hotmail.org",
 		"customerCountry": "United States",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 58,
@@ -519,7 +519,7 @@
 		"customerPhone": "(766) 668-2443",
 		"customerEmail": "daispencer6680@adobe.org",
 		"customerCountry": "India",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 59,
@@ -528,7 +528,7 @@
 		"customerPhone": "(505) 628-8656",
 		"customerEmail": "ryanhobbs@adobe.couk",
 		"customerCountry": "Russian Federation",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 60,
@@ -537,7 +537,7 @@
 		"customerPhone": "(835) 286-3290",
 		"customerEmail": "byronbryan1937@adobe.net",
 		"customerCountry": "New Zealand",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 61,
@@ -546,7 +546,7 @@
 		"customerPhone": "(774) 726-5586",
 		"customerEmail": "orsonreed@tesla.ca",
 		"customerCountry": "Belgium",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 62,
@@ -555,7 +555,7 @@
 		"customerPhone": "(462) 741-0511",
 		"customerEmail": "charityryan@facebook.edu",
 		"customerCountry": "Singapore",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 63,
@@ -564,7 +564,7 @@
 		"customerPhone": "(916) 426-6404",
 		"customerEmail": "knoxmaldonado@yahoo.ca",
 		"customerCountry": "South Africa",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 64,
@@ -573,7 +573,7 @@
 		"customerPhone": "(286) 272-3522",
 		"customerEmail": "nathanielnorris@hotmail.edu",
 		"customerCountry": "Australia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 65,
@@ -582,7 +582,7 @@
 		"customerPhone": "(151) 492-6729",
 		"customerEmail": "glennawilcox8189@outlook.com",
 		"customerCountry": "Spain",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 66,
@@ -591,7 +591,7 @@
 		"customerPhone": "(561) 703-2861",
 		"customerEmail": "dylanprince@google.org",
 		"customerCountry": "United States",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 67,
@@ -600,7 +600,7 @@
 		"customerPhone": "(331) 417-2690",
 		"customerEmail": "sladerice7687@yahoo.com",
 		"customerCountry": "Indonesia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 68,
@@ -609,7 +609,7 @@
 		"customerPhone": "(745) 639-9552",
 		"customerEmail": "allenhartman9556@hotmail.edu",
 		"customerCountry": "Germany",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 69,
@@ -618,7 +618,7 @@
 		"customerPhone": "(362) 293-2348",
 		"customerEmail": "xavieragould1007@adobe.com",
 		"customerCountry": "Canada",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 70,
@@ -627,7 +627,7 @@
 		"customerPhone": "(651) 683-8201",
 		"customerEmail": "ivymckay@hotmail.com",
 		"customerCountry": "Chile",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 71,
@@ -636,7 +636,7 @@
 		"customerPhone": "(676) 256-2683",
 		"customerEmail": "ursasosa3428@tesla.ca",
 		"customerCountry": "Norway",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 72,
@@ -645,7 +645,7 @@
 		"customerPhone": "(273) 583-4542",
 		"customerEmail": "solomonpetty@icloud.com",
 		"customerCountry": "Ireland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 73,
@@ -654,7 +654,7 @@
 		"customerPhone": "(512) 352-1395",
 		"customerEmail": "ebonyhancock5967@google.edu",
 		"customerCountry": "China",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 74,
@@ -663,7 +663,7 @@
 		"customerPhone": "(272) 564-1714",
 		"customerEmail": "talonparker@icloud.ca",
 		"customerCountry": "Russian Federation",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 75,
@@ -672,7 +672,7 @@
 		"customerPhone": "(832) 616-1937",
 		"customerEmail": "knoxpatterson@tesla.org",
 		"customerCountry": "Peru",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 76,
@@ -681,7 +681,7 @@
 		"customerPhone": "(267) 817-1263",
 		"customerEmail": "josiahedwards3191@facebook.couk",
 		"customerCountry": "United States",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 77,
@@ -690,7 +690,7 @@
 		"customerPhone": "(271) 987-1529",
 		"customerEmail": "arielwynn@google.com",
 		"customerCountry": "Spain",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 78,
@@ -699,7 +699,7 @@
 		"customerPhone": "(954) 618-5823",
 		"customerEmail": "prestonmeyer@google.com",
 		"customerCountry": "Indonesia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 79,
@@ -708,7 +708,7 @@
 		"customerPhone": "(827) 967-2387",
 		"customerEmail": "elmochan@outlook.net",
 		"customerCountry": "Belgium",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 80,
@@ -717,7 +717,7 @@
 		"customerPhone": "(512) 470-6362",
 		"customerEmail": "christenpetersen@hotmail.org",
 		"customerCountry": "Turkey",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 81,
@@ -726,7 +726,7 @@
 		"customerPhone": "(980) 923-2260",
 		"customerEmail": "danehall6008@facebook.org",
 		"customerCountry": "United States",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 82,
@@ -735,7 +735,7 @@
 		"customerPhone": "(784) 417-0597",
 		"customerEmail": "chavaglass@tesla.org",
 		"customerCountry": "United States",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 83,
@@ -744,7 +744,7 @@
 		"customerPhone": "(868) 881-6174",
 		"customerEmail": "anthonybarry@adobe.ca",
 		"customerCountry": "Sweden",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 84,
@@ -753,7 +753,7 @@
 		"customerPhone": "(363) 511-5726",
 		"customerEmail": "addisongardner@adobe.com",
 		"customerCountry": "Chile",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 85,
@@ -762,7 +762,7 @@
 		"customerPhone": "(725) 545-9978",
 		"customerEmail": "claytonmadden@outlook.net",
 		"customerCountry": "United States",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 86,
@@ -771,7 +771,7 @@
 		"customerPhone": "(288) 248-6527",
 		"customerEmail": "harlanpadilla8161@tesla.net",
 		"customerCountry": "Philippines",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 87,
@@ -780,7 +780,7 @@
 		"customerPhone": "(756) 444-4526",
 		"customerEmail": "xanthussimpson@tesla.com",
 		"customerCountry": "New Zealand",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 88,
@@ -789,7 +789,7 @@
 		"customerPhone": "(585) 445-3762",
 		"customerEmail": "ranahurley8997@facebook.ca",
 		"customerCountry": "Chile",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 89,
@@ -798,7 +798,7 @@
 		"customerPhone": "(619) 460-9171",
 		"customerEmail": "kylynnhorton1468@yahoo.org",
 		"customerCountry": "Canada",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 90,
@@ -807,7 +807,7 @@
 		"customerPhone": "(552) 336-3908",
 		"customerEmail": "prestonkennedy5984@adobe.com",
 		"customerCountry": "Indonesia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 91,
@@ -816,7 +816,7 @@
 		"customerPhone": "(143) 782-7869",
 		"customerEmail": "philipcollins4249@outlook.ca",
 		"customerCountry": "United States",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 92,
@@ -825,7 +825,7 @@
 		"customerPhone": "(362) 394-6547",
 		"customerEmail": "avrampeterson@microsoft.org",
 		"customerCountry": "Poland",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 93,
@@ -834,7 +834,7 @@
 		"customerPhone": "(286) 833-4434",
 		"customerEmail": "lesterboone@icloud.net",
 		"customerCountry": "Colombia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 94,
@@ -843,7 +843,7 @@
 		"customerPhone": "(412) 443-3614",
 		"customerEmail": "katelyngarner@yahoo.ca",
 		"customerCountry": "Pakistan",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 95,
@@ -852,7 +852,7 @@
 		"customerPhone": "(610) 817-8211",
 		"customerEmail": "amandadunn713@yahoo.com",
 		"customerCountry": "Germany",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 96,
@@ -861,7 +861,7 @@
 		"customerPhone": "(356) 758-3171",
 		"customerEmail": "ericaweber@google.com",
 		"customerCountry": "Spain",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 97,
@@ -870,7 +870,7 @@
 		"customerPhone": "(986) 506-9236",
 		"customerEmail": "reginahuff9818@facebook.edu",
 		"customerCountry": "Vietnam",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 98,
@@ -879,7 +879,7 @@
 		"customerPhone": "(608) 535-1535",
 		"customerEmail": "rubyallen@icloud.couk",
 		"customerCountry": "Canada",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 99,
@@ -888,7 +888,7 @@
 		"customerPhone": "(574) 766-2834",
 		"customerEmail": "erincarr@tesla.ca",
 		"customerCountry": "India",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 100,
@@ -897,7 +897,7 @@
 		"customerPhone": "(508) 861-6332",
 		"customerEmail": "kerrycompton9862@icloud.couk",
 		"customerCountry": "Canada",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 101,
@@ -906,7 +906,7 @@
 		"customerPhone": "(632) 742-1298",
 		"customerEmail": "amityromero@google.edu",
 		"customerCountry": "Ireland",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 102,
@@ -915,7 +915,7 @@
 		"customerPhone": "(668) 137-1148",
 		"customerEmail": "destinydillard1553@facebook.net",
 		"customerCountry": "South Korea",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 103,
@@ -924,7 +924,7 @@
 		"customerPhone": "(168) 277-0671",
 		"customerEmail": "irahess@tesla.org",
 		"customerCountry": "Peru",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 104,
@@ -933,7 +933,7 @@
 		"customerPhone": "(756) 794-3320",
 		"customerEmail": "avramduran2482@outlook.couk",
 		"customerCountry": "Austria",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 105,
@@ -942,7 +942,7 @@
 		"customerPhone": "(553) 121-5182",
 		"customerEmail": "montanagreen@google.edu",
 		"customerCountry": "Singapore",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 106,
@@ -951,7 +951,7 @@
 		"customerPhone": "(803) 661-7620",
 		"customerEmail": "ezraknapp@adobe.edu",
 		"customerCountry": "Sweden",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 107,
@@ -960,7 +960,7 @@
 		"customerPhone": "(583) 325-3739",
 		"customerEmail": "bevisroy@microsoft.org",
 		"customerCountry": "Vietnam",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 108,
@@ -969,7 +969,7 @@
 		"customerPhone": "(421) 785-8689",
 		"customerEmail": "timoncantrell8427@icloud.ca",
 		"customerCountry": "Germany",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 109,
@@ -978,7 +978,7 @@
 		"customerPhone": "(208) 942-4072",
 		"customerEmail": "nevillewalters@adobe.edu",
 		"customerCountry": "Pakistan",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 110,
@@ -987,7 +987,7 @@
 		"customerPhone": "(836) 625-1835",
 		"customerEmail": "aristotlemcconnell617@tesla.net",
 		"customerCountry": "Mexico",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 111,
@@ -996,7 +996,7 @@
 		"customerPhone": "(425) 668-8743",
 		"customerEmail": "lindarosales2838@tesla.ca",
 		"customerCountry": "Nigeria",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 112,
@@ -1005,7 +1005,7 @@
 		"customerPhone": "(614) 558-5862",
 		"customerEmail": "isadoratyson9271@tesla.ca",
 		"customerCountry": "Mexico",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 113,
@@ -1014,7 +1014,7 @@
 		"customerPhone": "(364) 852-1307",
 		"customerEmail": "joanwhite9185@hotmail.org",
 		"customerCountry": "Belgium",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 114,
@@ -1023,7 +1023,7 @@
 		"customerPhone": "(357) 923-5976",
 		"customerEmail": "armandodiaz@adobe.net",
 		"customerCountry": "Canada",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 115,
@@ -1032,7 +1032,7 @@
 		"customerPhone": "(277) 356-3431",
 		"customerEmail": "zanerutledge@tesla.org",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 116,
@@ -1041,7 +1041,7 @@
 		"customerPhone": "(805) 763-1768",
 		"customerEmail": "markfoster@microsoft.net",
 		"customerCountry": "Norway",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 117,
@@ -1050,7 +1050,7 @@
 		"customerPhone": "(855) 541-5448",
 		"customerEmail": "leonardbradley@yahoo.edu",
 		"customerCountry": "Singapore",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 118,
@@ -1059,7 +1059,7 @@
 		"customerPhone": "(813) 655-3435",
 		"customerEmail": "tuckermcdowell2469@outlook.edu",
 		"customerCountry": "Canada",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 119,
@@ -1068,7 +1068,7 @@
 		"customerPhone": "(279) 152-3795",
 		"customerEmail": "jenalopez@microsoft.com",
 		"customerCountry": "Germany",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 120,
@@ -1077,7 +1077,7 @@
 		"customerPhone": "(239) 487-6843",
 		"customerEmail": "elvispowell@microsoft.net",
 		"customerCountry": "Belgium",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 121,
@@ -1086,7 +1086,7 @@
 		"customerPhone": "(569) 892-4526",
 		"customerEmail": "mackenzieshaw@facebook.org",
 		"customerCountry": "Colombia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 122,
@@ -1095,7 +1095,7 @@
 		"customerPhone": "(585) 522-4654",
 		"customerEmail": "guydickerson9694@tesla.net",
 		"customerCountry": "Chile",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 123,
@@ -1104,7 +1104,7 @@
 		"customerPhone": "(473) 479-4284",
 		"customerEmail": "warrenlynn@google.net",
 		"customerCountry": "France",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 124,
@@ -1113,7 +1113,7 @@
 		"customerPhone": "(591) 411-7722",
 		"customerEmail": "ashermcintyre8789@microsoft.com",
 		"customerCountry": "Norway",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 125,
@@ -1122,7 +1122,7 @@
 		"customerPhone": "(127) 344-7233",
 		"customerEmail": "ranaramsey@outlook.net",
 		"customerCountry": "Pakistan",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 126,
@@ -1131,7 +1131,7 @@
 		"customerPhone": "(887) 514-8198",
 		"customerEmail": "felixharris@hotmail.com",
 		"customerCountry": "Peru",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 127,
@@ -1140,7 +1140,7 @@
 		"customerPhone": "(953) 311-6913",
 		"customerEmail": "imogenewhite@facebook.couk",
 		"customerCountry": "Australia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 128,
@@ -1149,7 +1149,7 @@
 		"customerPhone": "(311) 314-2712",
 		"customerEmail": "ulriccantrell1730@tesla.ca",
 		"customerCountry": "Philippines",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 129,
@@ -1158,7 +1158,7 @@
 		"customerPhone": "(287) 879-8040",
 		"customerEmail": "tashyamassey@facebook.couk",
 		"customerCountry": "China",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 130,
@@ -1167,7 +1167,7 @@
 		"customerPhone": "(685) 863-0735",
 		"customerEmail": "briellecruz@google.org",
 		"customerCountry": "Nigeria",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 131,
@@ -1176,7 +1176,7 @@
 		"customerPhone": "(985) 841-3834",
 		"customerEmail": "brandenpetersen5415@outlook.net",
 		"customerCountry": "Belgium",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 132,
@@ -1185,7 +1185,7 @@
 		"customerPhone": "(323) 313-7240",
 		"customerEmail": "theodoremckee@icloud.com",
 		"customerCountry": "Norway",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 133,
@@ -1194,7 +1194,7 @@
 		"customerPhone": "(717) 443-1751",
 		"customerEmail": "sarahreid@facebook.couk",
 		"customerCountry": "Singapore",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 134,
@@ -1203,7 +1203,7 @@
 		"customerPhone": "(303) 881-4135",
 		"customerEmail": "ceciliasnyder@icloud.couk",
 		"customerCountry": "Ireland",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 135,
@@ -1212,7 +1212,7 @@
 		"customerPhone": "(129) 546-0806",
 		"customerEmail": "russellsimpson@adobe.edu",
 		"customerCountry": "Turkey",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 136,
@@ -1221,7 +1221,7 @@
 		"customerPhone": "(559) 141-7745",
 		"customerEmail": "tobiasharrison4869@adobe.ca",
 		"customerCountry": "Ukraine",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 137,
@@ -1230,7 +1230,7 @@
 		"customerPhone": "(228) 781-1931",
 		"customerEmail": "nataliemonroe8464@microsoft.ca",
 		"customerCountry": "Poland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 138,
@@ -1239,7 +1239,7 @@
 		"customerPhone": "(636) 233-1765",
 		"customerEmail": "jeromedelaney7898@tesla.org",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 139,
@@ -1248,7 +1248,7 @@
 		"customerPhone": "(321) 939-7623",
 		"customerEmail": "hayleynorman@hotmail.org",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 140,
@@ -1257,7 +1257,7 @@
 		"customerPhone": "(539) 449-7551",
 		"customerEmail": "briannachristian@facebook.couk",
 		"customerCountry": "Philippines",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 141,
@@ -1266,7 +1266,7 @@
 		"customerPhone": "(755) 578-7882",
 		"customerEmail": "simonford1839@hotmail.com",
 		"customerCountry": "Austria",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 142,
@@ -1275,7 +1275,7 @@
 		"customerPhone": "(777) 575-6118",
 		"customerEmail": "aimeemcconnell@google.net",
 		"customerCountry": "Ukraine",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 143,
@@ -1284,7 +1284,7 @@
 		"customerPhone": "(867) 992-8220",
 		"customerEmail": "henryromero1704@facebook.edu",
 		"customerCountry": "Peru",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 144,
@@ -1293,7 +1293,7 @@
 		"customerPhone": "(279) 717-5673",
 		"customerEmail": "keefejordan1256@tesla.couk",
 		"customerCountry": "United States",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 145,
@@ -1302,7 +1302,7 @@
 		"customerPhone": "(425) 346-5112",
 		"customerEmail": "devinwyatt@google.net",
 		"customerCountry": "Belgium",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 146,
@@ -1311,7 +1311,7 @@
 		"customerPhone": "(183) 248-9338",
 		"customerEmail": "heddalucas@google.org",
 		"customerCountry": "Philippines",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 147,
@@ -1320,7 +1320,7 @@
 		"customerPhone": "(194) 856-3745",
 		"customerEmail": "minervahead1102@yahoo.com",
 		"customerCountry": "Brazil",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 148,
@@ -1329,7 +1329,7 @@
 		"customerPhone": "(989) 882-7315",
 		"customerEmail": "hermionehunt@facebook.couk",
 		"customerCountry": "Australia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 149,
@@ -1338,7 +1338,7 @@
 		"customerPhone": "(736) 936-8247",
 		"customerEmail": "timothyguerrero7032@tesla.couk",
 		"customerCountry": "Pakistan",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 150,
@@ -1347,7 +1347,7 @@
 		"customerPhone": "(186) 822-1771",
 		"customerEmail": "orsonsantana8208@yahoo.com",
 		"customerCountry": "Vietnam",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 151,
@@ -1356,7 +1356,7 @@
 		"customerPhone": "(962) 495-8147",
 		"customerEmail": "phelanpuckett@hotmail.ca",
 		"customerCountry": "Vietnam",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 152,
@@ -1365,7 +1365,7 @@
 		"customerPhone": "(562) 984-1784",
 		"customerEmail": "quamarharrison1701@microsoft.net",
 		"customerCountry": "Italy",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 153,
@@ -1374,7 +1374,7 @@
 		"customerPhone": "(982) 333-7133",
 		"customerEmail": "kasimirmorton@hotmail.edu",
 		"customerCountry": "France",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 154,
@@ -1383,7 +1383,7 @@
 		"customerPhone": "(875) 361-7601",
 		"customerEmail": "wyattblack6505@hotmail.couk",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 155,
@@ -1392,7 +1392,7 @@
 		"customerPhone": "(492) 818-2123",
 		"customerEmail": "tanishamiller@facebook.com",
 		"customerCountry": "South Korea",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 156,
@@ -1401,7 +1401,7 @@
 		"customerPhone": "(510) 936-7988",
 		"customerEmail": "rajahenderson@facebook.net",
 		"customerCountry": "France",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 157,
@@ -1410,7 +1410,7 @@
 		"customerPhone": "(516) 144-7038",
 		"customerEmail": "dalekaufman@tesla.org",
 		"customerCountry": "Colombia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 158,
@@ -1419,7 +1419,7 @@
 		"customerPhone": "(245) 585-7634",
 		"customerEmail": "rashadstevens@hotmail.edu",
 		"customerCountry": "Italy",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 159,
@@ -1428,7 +1428,7 @@
 		"customerPhone": "(896) 304-1034",
 		"customerEmail": "jasminemoreno4121@facebook.ca",
 		"customerCountry": "Turkey",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 160,
@@ -1437,7 +1437,7 @@
 		"customerPhone": "(663) 174-3786",
 		"customerEmail": "berkblack@outlook.couk",
 		"customerCountry": "United Kingdom",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 161,
@@ -1446,7 +1446,7 @@
 		"customerPhone": "(851) 937-2171",
 		"customerEmail": "jasmineskinner5403@google.ca",
 		"customerCountry": "India",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 162,
@@ -1455,7 +1455,7 @@
 		"customerPhone": "(811) 214-5273",
 		"customerEmail": "brendanholloway@icloud.net",
 		"customerCountry": "Vietnam",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 163,
@@ -1464,7 +1464,7 @@
 		"customerPhone": "(557) 211-9932",
 		"customerEmail": "breannacarver@yahoo.com",
 		"customerCountry": "Brazil",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 164,
@@ -1473,7 +1473,7 @@
 		"customerPhone": "(244) 776-6546",
 		"customerEmail": "cassidywilson7987@hotmail.ca",
 		"customerCountry": "Ukraine",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 165,
@@ -1482,7 +1482,7 @@
 		"customerPhone": "(950) 615-9898",
 		"customerEmail": "noahtrujillo9823@adobe.edu",
 		"customerCountry": "Ireland",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 166,
@@ -1491,7 +1491,7 @@
 		"customerPhone": "(877) 206-3870",
 		"customerEmail": "baxtergaines4551@icloud.net",
 		"customerCountry": "Spain",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 167,
@@ -1500,7 +1500,7 @@
 		"customerPhone": "(249) 987-8470",
 		"customerEmail": "rosalynmills613@tesla.ca",
 		"customerCountry": "Canada",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 168,
@@ -1509,7 +1509,7 @@
 		"customerPhone": "(366) 826-2532",
 		"customerEmail": "alanknight@tesla.edu",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 169,
@@ -1518,7 +1518,7 @@
 		"customerPhone": "(414) 531-3221",
 		"customerEmail": "nissimwilliams@microsoft.ca",
 		"customerCountry": "United Kingdom",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 170,
@@ -1527,7 +1527,7 @@
 		"customerPhone": "(688) 635-3623",
 		"customerEmail": "emerylangley7639@facebook.com",
 		"customerCountry": "Norway",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 171,
@@ -1536,7 +1536,7 @@
 		"customerPhone": "(476) 349-4786",
 		"customerEmail": "aaronstevenson3283@outlook.ca",
 		"customerCountry": "Ukraine",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 172,
@@ -1545,7 +1545,7 @@
 		"customerPhone": "(550) 295-4188",
 		"customerEmail": "haydenmercer@microsoft.ca",
 		"customerCountry": "South Korea",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 173,
@@ -1554,7 +1554,7 @@
 		"customerPhone": "(345) 928-2763",
 		"customerEmail": "whoopiglenn6087@facebook.net",
 		"customerCountry": "Brazil",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 174,
@@ -1563,7 +1563,7 @@
 		"customerPhone": "(362) 914-6292",
 		"customerEmail": "adenamcfadden@yahoo.net",
 		"customerCountry": "Vietnam",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 175,
@@ -1572,7 +1572,7 @@
 		"customerPhone": "(352) 343-9818",
 		"customerEmail": "keanesalas@facebook.ca",
 		"customerCountry": "Russian Federation",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 176,
@@ -1581,7 +1581,7 @@
 		"customerPhone": "(454) 731-6811",
 		"customerEmail": "granthughes@facebook.com",
 		"customerCountry": "New Zealand",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 177,
@@ -1590,7 +1590,7 @@
 		"customerPhone": "(574) 180-0440",
 		"customerEmail": "gannonklein@yahoo.ca",
 		"customerCountry": "United Kingdom",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 178,
@@ -1599,7 +1599,7 @@
 		"customerPhone": "(781) 325-5406",
 		"customerEmail": "xavierwhite9550@google.net",
 		"customerCountry": "Netherlands",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 179,
@@ -1608,7 +1608,7 @@
 		"customerPhone": "(268) 646-6637",
 		"customerEmail": "isaacdecker@hotmail.com",
 		"customerCountry": "Ireland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 180,
@@ -1617,7 +1617,7 @@
 		"customerPhone": "(189) 178-2075",
 		"customerEmail": "kevinlarsen3183@google.com",
 		"customerCountry": "Australia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 181,
@@ -1626,7 +1626,7 @@
 		"customerPhone": "(408) 724-8359",
 		"customerEmail": "reganreed7683@icloud.edu",
 		"customerCountry": "Pakistan",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 182,
@@ -1635,7 +1635,7 @@
 		"customerPhone": "(253) 511-8194",
 		"customerEmail": "florencerivera@icloud.net",
 		"customerCountry": "Spain",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 183,
@@ -1644,7 +1644,7 @@
 		"customerPhone": "(671) 685-4862",
 		"customerEmail": "tigernieves6977@microsoft.ca",
 		"customerCountry": "Ukraine",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 184,
@@ -1653,7 +1653,7 @@
 		"customerPhone": "(581) 893-8724",
 		"customerEmail": "miriammoses@facebook.edu",
 		"customerCountry": "Germany",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 185,
@@ -1662,7 +1662,7 @@
 		"customerPhone": "(364) 481-6364",
 		"customerEmail": "ramamckee1193@yahoo.couk",
 		"customerCountry": "China",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 186,
@@ -1671,7 +1671,7 @@
 		"customerPhone": "(749) 851-7280",
 		"customerEmail": "luneacruz@yahoo.ca",
 		"customerCountry": "South Korea",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 187,
@@ -1680,7 +1680,7 @@
 		"customerPhone": "(456) 468-7888",
 		"customerEmail": "dylangriffin5929@adobe.ca",
 		"customerCountry": "Ireland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 188,
@@ -1689,7 +1689,7 @@
 		"customerPhone": "(207) 762-1958",
 		"customerEmail": "kuamelewis9346@yahoo.ca",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 189,
@@ -1698,7 +1698,7 @@
 		"customerPhone": "(342) 866-4387",
 		"customerEmail": "pakihahn9079@facebook.org",
 		"customerCountry": "Netherlands",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 190,
@@ -1707,7 +1707,7 @@
 		"customerPhone": "(760) 799-2672",
 		"customerEmail": "darrylelliott@yahoo.net",
 		"customerCountry": "Chile",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 191,
@@ -1716,7 +1716,7 @@
 		"customerPhone": "(313) 518-8148",
 		"customerEmail": "barrettgamble@facebook.ca",
 		"customerCountry": "Brazil",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 192,
@@ -1725,7 +1725,7 @@
 		"customerPhone": "(376) 889-1612",
 		"customerEmail": "staceypeterson9745@microsoft.couk",
 		"customerCountry": "Chile",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 193,
@@ -1734,7 +1734,7 @@
 		"customerPhone": "(383) 727-8774",
 		"customerEmail": "meganhill@hotmail.edu",
 		"customerCountry": "Brazil",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 194,
@@ -1743,7 +1743,7 @@
 		"customerPhone": "(443) 745-6198",
 		"customerEmail": "evelynweeks5878@microsoft.org",
 		"customerCountry": "Philippines",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 195,
@@ -1752,7 +1752,7 @@
 		"customerPhone": "(124) 881-2234",
 		"customerEmail": "kevynestrada@google.edu",
 		"customerCountry": "Spain",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 196,
@@ -1761,7 +1761,7 @@
 		"customerPhone": "(955) 812-4731",
 		"customerEmail": "odetteeaton@icloud.couk",
 		"customerCountry": "Poland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 197,
@@ -1770,7 +1770,7 @@
 		"customerPhone": "(627) 261-3276",
 		"customerEmail": "vannasampson@microsoft.org",
 		"customerCountry": "New Zealand",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 198,
@@ -1779,7 +1779,7 @@
 		"customerPhone": "(131) 657-4603",
 		"customerEmail": "bertharichardson3769@yahoo.org",
 		"customerCountry": "France",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 199,
@@ -1788,7 +1788,7 @@
 		"customerPhone": "(372) 306-1531",
 		"customerEmail": "darrelcopeland8014@outlook.net",
 		"customerCountry": "Ukraine",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 200,
@@ -1797,7 +1797,7 @@
 		"customerPhone": "(196) 784-4555",
 		"customerEmail": "igorrasmussen@google.org",
 		"customerCountry": "Sweden",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 201,
@@ -1806,7 +1806,7 @@
 		"customerPhone": "(136) 607-1423",
 		"customerEmail": "rhodamcbride1314@adobe.net",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 202,
@@ -1815,7 +1815,7 @@
 		"customerPhone": "(561) 818-5972",
 		"customerEmail": "rogandyer@hotmail.edu",
 		"customerCountry": "Netherlands",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 203,
@@ -1824,7 +1824,7 @@
 		"customerPhone": "(564) 932-4447",
 		"customerEmail": "kaimeadows3248@microsoft.couk",
 		"customerCountry": "South Korea",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 204,
@@ -1833,7 +1833,7 @@
 		"customerPhone": "(842) 673-2427",
 		"customerEmail": "colinavery@icloud.org",
 		"customerCountry": "Ireland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 205,
@@ -1842,7 +1842,7 @@
 		"customerPhone": "(498) 357-0841",
 		"customerEmail": "buckminsteracosta6458@icloud.ca",
 		"customerCountry": "Spain",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 206,
@@ -1851,7 +1851,7 @@
 		"customerPhone": "(488) 712-0806",
 		"customerEmail": "garyshannon1531@hotmail.com",
 		"customerCountry": "Vietnam",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 207,
@@ -1860,7 +1860,7 @@
 		"customerPhone": "(854) 869-3160",
 		"customerEmail": "erinvance1274@facebook.edu",
 		"customerCountry": "Singapore",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 208,
@@ -1869,7 +1869,7 @@
 		"customerPhone": "(788) 316-7575",
 		"customerEmail": "zeniaprince5834@tesla.net",
 		"customerCountry": "Philippines",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 209,
@@ -1878,7 +1878,7 @@
 		"customerPhone": "(141) 702-2834",
 		"customerEmail": "hardingrobles@yahoo.couk",
 		"customerCountry": "Nigeria",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 210,
@@ -1887,7 +1887,7 @@
 		"customerPhone": "(216) 182-8544",
 		"customerEmail": "evangelinekerr@google.couk",
 		"customerCountry": "Ukraine",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 211,
@@ -1896,7 +1896,7 @@
 		"customerPhone": "(616) 997-2978",
 		"customerEmail": "christopherdurham1356@adobe.ca",
 		"customerCountry": "Netherlands",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 212,
@@ -1905,7 +1905,7 @@
 		"customerPhone": "(643) 950-9977",
 		"customerEmail": "wilmamaldonado2563@microsoft.com",
 		"customerCountry": "United States",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 213,
@@ -1914,7 +1914,7 @@
 		"customerPhone": "(477) 957-2144",
 		"customerEmail": "alfonsochase6825@facebook.org",
 		"customerCountry": "Singapore",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 214,
@@ -1923,7 +1923,7 @@
 		"customerPhone": "(516) 443-1522",
 		"customerEmail": "grantpeck@adobe.com",
 		"customerCountry": "Netherlands",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 215,
@@ -1932,7 +1932,7 @@
 		"customerPhone": "(857) 842-8771",
 		"customerEmail": "nataliebeck@google.couk",
 		"customerCountry": "Germany",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 216,
@@ -1941,7 +1941,7 @@
 		"customerPhone": "(323) 173-5362",
 		"customerEmail": "harrisonbuck@facebook.org",
 		"customerCountry": "Austria",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 217,
@@ -1950,7 +1950,7 @@
 		"customerPhone": "(861) 506-4568",
 		"customerEmail": "miriamwatkins142@microsoft.ca",
 		"customerCountry": "Pakistan",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 218,
@@ -1959,7 +1959,7 @@
 		"customerPhone": "(716) 957-3082",
 		"customerEmail": "alisarobinson1809@icloud.org",
 		"customerCountry": "Ukraine",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 219,
@@ -1968,7 +1968,7 @@
 		"customerPhone": "(793) 687-4241",
 		"customerEmail": "utarichardson2344@microsoft.edu",
 		"customerCountry": "France",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 220,
@@ -1977,7 +1977,7 @@
 		"customerPhone": "(389) 402-6174",
 		"customerEmail": "matthewstevenson@microsoft.ca",
 		"customerCountry": "Poland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 221,
@@ -1986,7 +1986,7 @@
 		"customerPhone": "(750) 282-1852",
 		"customerEmail": "rosscameron@icloud.ca",
 		"customerCountry": "Colombia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 222,
@@ -1995,7 +1995,7 @@
 		"customerPhone": "(635) 254-7217",
 		"customerEmail": "wyomingschroeder@outlook.org",
 		"customerCountry": "China",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 223,
@@ -2004,7 +2004,7 @@
 		"customerPhone": "(763) 515-7316",
 		"customerEmail": "walterchandler3900@facebook.couk",
 		"customerCountry": "Norway",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 224,
@@ -2013,7 +2013,7 @@
 		"customerPhone": "(218) 440-1713",
 		"customerEmail": "stuarthogan8419@google.org",
 		"customerCountry": "Russian Federation",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 225,
@@ -2022,7 +2022,7 @@
 		"customerPhone": "(242) 552-3272",
 		"customerEmail": "francescanavarro676@yahoo.com",
 		"customerCountry": "Ireland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 226,
@@ -2031,7 +2031,7 @@
 		"customerPhone": "(485) 715-8965",
 		"customerEmail": "orlandoyates@microsoft.ca",
 		"customerCountry": "Spain",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 227,
@@ -2040,7 +2040,7 @@
 		"customerPhone": "(776) 560-8024",
 		"customerEmail": "garrisonhickman8756@hotmail.org",
 		"customerCountry": "Canada",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 228,
@@ -2049,7 +2049,7 @@
 		"customerPhone": "(558) 112-5247",
 		"customerEmail": "miafitzpatrick@microsoft.org",
 		"customerCountry": "Norway",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 229,
@@ -2058,7 +2058,7 @@
 		"customerPhone": "(294) 165-7715",
 		"customerEmail": "patricksosa3217@tesla.net",
 		"customerCountry": "Norway",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 230,
@@ -2067,7 +2067,7 @@
 		"customerPhone": "(650) 833-1892",
 		"customerEmail": "calvincarrillo2644@yahoo.net",
 		"customerCountry": "Pakistan",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 231,
@@ -2076,7 +2076,7 @@
 		"customerPhone": "(381) 294-3974",
 		"customerEmail": "jadenbird4112@outlook.couk",
 		"customerCountry": "New Zealand",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 232,
@@ -2085,7 +2085,7 @@
 		"customerPhone": "(278) 668-3436",
 		"customerEmail": "deborahreed706@facebook.org",
 		"customerCountry": "Turkey",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 233,
@@ -2094,7 +2094,7 @@
 		"customerPhone": "(315) 119-2376",
 		"customerEmail": "jinsweeney@adobe.edu",
 		"customerCountry": "Italy",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 234,
@@ -2103,7 +2103,7 @@
 		"customerPhone": "(733) 466-1723",
 		"customerEmail": "octaviaburke@facebook.com",
 		"customerCountry": "Brazil",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 235,
@@ -2112,7 +2112,7 @@
 		"customerPhone": "(528) 568-1987",
 		"customerEmail": "reecerobertson@hotmail.couk",
 		"customerCountry": "Nigeria",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 236,
@@ -2121,7 +2121,7 @@
 		"customerPhone": "(910) 736-7873",
 		"customerEmail": "medgenixon@yahoo.couk",
 		"customerCountry": "South Korea",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 237,
@@ -2130,7 +2130,7 @@
 		"customerPhone": "(774) 145-8976",
 		"customerEmail": "maxwellgilliam@hotmail.edu",
 		"customerCountry": "Nigeria",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 238,
@@ -2139,7 +2139,7 @@
 		"customerPhone": "(337) 570-8437",
 		"customerEmail": "burkefreeman9569@adobe.ca",
 		"customerCountry": "Sweden",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 239,
@@ -2148,7 +2148,7 @@
 		"customerPhone": "(781) 889-4692",
 		"customerEmail": "joelsexton2812@yahoo.com",
 		"customerCountry": "Sweden",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 240,
@@ -2157,7 +2157,7 @@
 		"customerPhone": "(447) 483-2678",
 		"customerEmail": "lauracantrell4223@tesla.net",
 		"customerCountry": "India",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 241,
@@ -2166,7 +2166,7 @@
 		"customerPhone": "(734) 468-5474",
 		"customerEmail": "libbygraham608@icloud.couk",
 		"customerCountry": "Italy",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 242,
@@ -2175,7 +2175,7 @@
 		"customerPhone": "(789) 847-5183",
 		"customerEmail": "ilastanley2441@hotmail.org",
 		"customerCountry": "Norway",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 243,
@@ -2184,7 +2184,7 @@
 		"customerPhone": "(766) 413-7125",
 		"customerEmail": "abelcollier9188@icloud.com",
 		"customerCountry": "Norway",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 244,
@@ -2193,7 +2193,7 @@
 		"customerPhone": "(638) 352-2867",
 		"customerEmail": "derekelliott8991@hotmail.net",
 		"customerCountry": "Nigeria",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 245,
@@ -2202,7 +2202,7 @@
 		"customerPhone": "(422) 636-3287",
 		"customerEmail": "dieterhorne@tesla.ca",
 		"customerCountry": "Poland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 246,
@@ -2211,7 +2211,7 @@
 		"customerPhone": "(522) 569-8676",
 		"customerEmail": "gavinmonroe8522@yahoo.couk",
 		"customerCountry": "Brazil",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 247,
@@ -2220,7 +2220,7 @@
 		"customerPhone": "(126) 566-1223",
 		"customerEmail": "carolmorris5449@icloud.ca",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 248,
@@ -2229,7 +2229,7 @@
 		"customerPhone": "(349) 271-5237",
 		"customerEmail": "amelaparker4572@tesla.org",
 		"customerCountry": "Sweden",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 249,
@@ -2238,7 +2238,7 @@
 		"customerPhone": "(867) 581-5450",
 		"customerEmail": "rebekahmurphy@icloud.couk",
 		"customerCountry": "Pakistan",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 250,
@@ -2247,7 +2247,7 @@
 		"customerPhone": "(959) 748-2514",
 		"customerEmail": "tashyabrooks@google.ca",
 		"customerCountry": "India",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 251,
@@ -2256,7 +2256,7 @@
 		"customerPhone": "(487) 512-7461",
 		"customerEmail": "burkerowland@outlook.couk",
 		"customerCountry": "Russian Federation",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 252,
@@ -2265,7 +2265,7 @@
 		"customerPhone": "(896) 932-8274",
 		"customerEmail": "azaliarios@facebook.org",
 		"customerCountry": "Singapore",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 253,
@@ -2274,7 +2274,7 @@
 		"customerPhone": "(768) 267-2512",
 		"customerEmail": "ifeomaparker361@facebook.org",
 		"customerCountry": "United Kingdom",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 254,
@@ -2283,7 +2283,7 @@
 		"customerPhone": "(887) 851-0326",
 		"customerEmail": "kermitmclean@hotmail.com",
 		"customerCountry": "Ireland",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 255,
@@ -2292,7 +2292,7 @@
 		"customerPhone": "(436) 584-5365",
 		"customerEmail": "havivahuffman9215@yahoo.couk",
 		"customerCountry": "Nigeria",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 256,
@@ -2301,7 +2301,7 @@
 		"customerPhone": "(362) 333-1575",
 		"customerEmail": "paulclemons2481@adobe.ca",
 		"customerCountry": "Indonesia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 257,
@@ -2310,7 +2310,7 @@
 		"customerPhone": "(652) 477-1458",
 		"customerEmail": "jamaliahunter@icloud.com",
 		"customerCountry": "Peru",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 258,
@@ -2319,7 +2319,7 @@
 		"customerPhone": "(383) 377-6114",
 		"customerEmail": "nolandunlap7496@tesla.org",
 		"customerCountry": "South Africa",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 259,
@@ -2328,7 +2328,7 @@
 		"customerPhone": "(515) 814-3414",
 		"customerEmail": "griffithbender@outlook.ca",
 		"customerCountry": "Indonesia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 260,
@@ -2337,7 +2337,7 @@
 		"customerPhone": "(414) 837-3261",
 		"customerEmail": "chaimduke@outlook.org",
 		"customerCountry": "China",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 261,
@@ -2346,7 +2346,7 @@
 		"customerPhone": "(439) 293-9387",
 		"customerEmail": "tigerhartman@icloud.edu",
 		"customerCountry": "Canada",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 262,
@@ -2355,7 +2355,7 @@
 		"customerPhone": "(454) 348-7835",
 		"customerEmail": "kadeembradford@adobe.net",
 		"customerCountry": "Belgium",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 263,
@@ -2364,7 +2364,7 @@
 		"customerPhone": "(925) 848-9540",
 		"customerEmail": "verarich@google.ca",
 		"customerCountry": "Pakistan",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 264,
@@ -2373,7 +2373,7 @@
 		"customerPhone": "(835) 427-1041",
 		"customerEmail": "frederickarodgers9907@google.ca",
 		"customerCountry": "Mexico",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 265,
@@ -2382,7 +2382,7 @@
 		"customerPhone": "(287) 260-5427",
 		"customerEmail": "quynvega7361@icloud.net",
 		"customerCountry": "Sweden",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 266,
@@ -2391,7 +2391,7 @@
 		"customerPhone": "(552) 889-9914",
 		"customerEmail": "angelabass4640@tesla.ca",
 		"customerCountry": "New Zealand",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 267,
@@ -2400,7 +2400,7 @@
 		"customerPhone": "(544) 942-3631",
 		"customerEmail": "ezraweber@facebook.ca",
 		"customerCountry": "Mexico",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 268,
@@ -2409,7 +2409,7 @@
 		"customerPhone": "(245) 840-8689",
 		"customerEmail": "jaymecombs639@adobe.edu",
 		"customerCountry": "Brazil",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 269,
@@ -2418,7 +2418,7 @@
 		"customerPhone": "(684) 606-0425",
 		"customerEmail": "alexanderwilkins9145@microsoft.edu",
 		"customerCountry": "Philippines",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 270,
@@ -2427,7 +2427,7 @@
 		"customerPhone": "(373) 567-8866",
 		"customerEmail": "madisonpennington@microsoft.net",
 		"customerCountry": "Norway",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 271,
@@ -2436,7 +2436,7 @@
 		"customerPhone": "(340) 864-2404",
 		"customerEmail": "colbyrussell@facebook.com",
 		"customerCountry": "China",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 272,
@@ -2445,7 +2445,7 @@
 		"customerPhone": "(497) 138-9018",
 		"customerEmail": "katellsolis4452@yahoo.ca",
 		"customerCountry": "United Kingdom",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 273,
@@ -2454,7 +2454,7 @@
 		"customerPhone": "(474) 213-7623",
 		"customerEmail": "griffithlawson4766@google.net",
 		"customerCountry": "Turkey",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 274,
@@ -2463,7 +2463,7 @@
 		"customerPhone": "(490) 737-1233",
 		"customerEmail": "hayleyprince347@hotmail.net",
 		"customerCountry": "Germany",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 275,
@@ -2472,7 +2472,7 @@
 		"customerPhone": "(771) 947-8622",
 		"customerEmail": "carlydudley3196@microsoft.couk",
 		"customerCountry": "Italy",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 276,
@@ -2481,7 +2481,7 @@
 		"customerPhone": "(777) 556-8282",
 		"customerEmail": "kermitdodson628@outlook.org",
 		"customerCountry": "Colombia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 277,
@@ -2490,7 +2490,7 @@
 		"customerPhone": "(432) 361-5279",
 		"customerEmail": "leilanicampos@outlook.com",
 		"customerCountry": "South Korea",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 278,
@@ -2499,7 +2499,7 @@
 		"customerPhone": "(158) 561-2188",
 		"customerEmail": "urielalvarez@google.ca",
 		"customerCountry": "South Africa",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 279,
@@ -2508,7 +2508,7 @@
 		"customerPhone": "(921) 558-6552",
 		"customerEmail": "quintessaweiss3658@icloud.ca",
 		"customerCountry": "Nigeria",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 280,
@@ -2517,7 +2517,7 @@
 		"customerPhone": "(517) 532-9706",
 		"customerEmail": "deanweiss@icloud.ca",
 		"customerCountry": "China",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 281,
@@ -2526,7 +2526,7 @@
 		"customerPhone": "(367) 772-8454",
 		"customerEmail": "alinegomez@microsoft.org",
 		"customerCountry": "Belgium",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 282,
@@ -2535,7 +2535,7 @@
 		"customerPhone": "(747) 605-6594",
 		"customerEmail": "nashgould9972@adobe.couk",
 		"customerCountry": "Singapore",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 283,
@@ -2544,7 +2544,7 @@
 		"customerPhone": "(434) 341-3762",
 		"customerEmail": "justinebolton@hotmail.com",
 		"customerCountry": "Indonesia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 284,
@@ -2553,7 +2553,7 @@
 		"customerPhone": "(237) 729-6489",
 		"customerEmail": "octaviusmorrow1880@adobe.couk",
 		"customerCountry": "Italy",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 285,
@@ -2562,7 +2562,7 @@
 		"customerPhone": "(278) 252-4637",
 		"customerEmail": "justineslater3727@hotmail.org",
 		"customerCountry": "Canada",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 286,
@@ -2571,7 +2571,7 @@
 		"customerPhone": "(257) 244-8522",
 		"customerEmail": "katelynjoyner@facebook.edu",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 287,
@@ -2580,7 +2580,7 @@
 		"customerPhone": "(181) 788-5255",
 		"customerEmail": "lucaspruitt@hotmail.ca",
 		"customerCountry": "Philippines",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 288,
@@ -2589,7 +2589,7 @@
 		"customerPhone": "(387) 670-7744",
 		"customerEmail": "prescottalford7992@icloud.edu",
 		"customerCountry": "Russian Federation",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 289,
@@ -2598,7 +2598,7 @@
 		"customerPhone": "(533) 188-3331",
 		"customerEmail": "kelseyburton@icloud.edu",
 		"customerCountry": "Ireland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 290,
@@ -2607,7 +2607,7 @@
 		"customerPhone": "(272) 247-2756",
 		"customerEmail": "gabrielgallegos@google.org",
 		"customerCountry": "Costa Rica",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 291,
@@ -2616,7 +2616,7 @@
 		"customerPhone": "(226) 415-4888",
 		"customerEmail": "vedaphillips8846@hotmail.edu",
 		"customerCountry": "Vietnam",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 292,
@@ -2625,7 +2625,7 @@
 		"customerPhone": "(441) 392-1111",
 		"customerEmail": "naomibeach@yahoo.ca",
 		"customerCountry": "Pakistan",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 293,
@@ -2634,7 +2634,7 @@
 		"customerPhone": "(366) 772-3653",
 		"customerEmail": "wandasantiago@tesla.ca",
 		"customerCountry": "Indonesia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 294,
@@ -2643,7 +2643,7 @@
 		"customerPhone": "(127) 143-4875",
 		"customerEmail": "huntersteele7705@google.couk",
 		"customerCountry": "Australia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 295,
@@ -2652,7 +2652,7 @@
 		"customerPhone": "(927) 566-4661",
 		"customerEmail": "glennasnow5780@facebook.net",
 		"customerCountry": "South Korea",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 296,
@@ -2661,7 +2661,7 @@
 		"customerPhone": "(751) 376-2550",
 		"customerEmail": "shainebush@facebook.com",
 		"customerCountry": "Mexico",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 297,
@@ -2670,7 +2670,7 @@
 		"customerPhone": "(676) 496-7892",
 		"customerEmail": "camillatran8145@facebook.com",
 		"customerCountry": "Austria",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 298,
@@ -2679,7 +2679,7 @@
 		"customerPhone": "(650) 248-2761",
 		"customerEmail": "brennahansen233@microsoft.org",
 		"customerCountry": "Indonesia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 299,
@@ -2688,7 +2688,7 @@
 		"customerPhone": "(328) 777-1162",
 		"customerEmail": "rayasnyder@tesla.com",
 		"customerCountry": "India",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 300,
@@ -2697,7 +2697,7 @@
 		"customerPhone": "(352) 699-1434",
 		"customerEmail": "normanbernard140@outlook.net",
 		"customerCountry": "Philippines",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 301,
@@ -2706,7 +2706,7 @@
 		"customerPhone": "(585) 472-2068",
 		"customerEmail": "merrittbuchanan4764@facebook.ca",
 		"customerCountry": "Poland",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 302,
@@ -2715,7 +2715,7 @@
 		"customerPhone": "(861) 535-3637",
 		"customerEmail": "chesterjuarez@hotmail.couk",
 		"customerCountry": "Australia",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 303,
@@ -2724,7 +2724,7 @@
 		"customerPhone": "(247) 361-7731",
 		"customerEmail": "margaretwebster@icloud.com",
 		"customerCountry": "Philippines",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 304,
@@ -2733,7 +2733,7 @@
 		"customerPhone": "(433) 251-1957",
 		"customerEmail": "harrisongarrett@outlook.com",
 		"customerCountry": "Philippines",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 305,
@@ -2742,7 +2742,7 @@
 		"customerPhone": "(138) 834-1123",
 		"customerEmail": "andrewhuffman@icloud.ca",
 		"customerCountry": "Norway",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 306,
@@ -2751,7 +2751,7 @@
 		"customerPhone": "(435) 832-3437",
 		"customerEmail": "kuamecarpenter8673@outlook.org",
 		"customerCountry": "Chile",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 307,
@@ -2760,7 +2760,7 @@
 		"customerPhone": "(641) 557-3165",
 		"customerEmail": "nataliefuentes3508@yahoo.com",
 		"customerCountry": "Sweden",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 308,
@@ -2769,7 +2769,7 @@
 		"customerPhone": "(653) 898-2203",
 		"customerEmail": "hyattbass7003@facebook.net",
 		"customerCountry": "South Africa",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 309,
@@ -2778,7 +2778,7 @@
 		"customerPhone": "(984) 688-5323",
 		"customerEmail": "rafaeltate2124@yahoo.org",
 		"customerCountry": "Turkey",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 310,
@@ -2787,7 +2787,7 @@
 		"customerPhone": "(536) 321-0486",
 		"customerEmail": "iangrimes@hotmail.net",
 		"customerCountry": "Turkey",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 311,
@@ -2796,7 +2796,7 @@
 		"customerPhone": "(457) 788-3555",
 		"customerEmail": "nevillepickett9823@facebook.edu",
 		"customerCountry": "South Korea",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 312,
@@ -2805,7 +2805,7 @@
 		"customerPhone": "(739) 629-6817",
 		"customerEmail": "stewartguy@yahoo.couk",
 		"customerCountry": "Turkey",
-		"customerStatus": "active"
+		"customerStatus": true
 	},
 	{
 		"id": 313,
@@ -2814,7 +2814,7 @@
 		"customerPhone": "(455) 483-5124",
 		"customerEmail": "rafaelkeith2911@hotmail.com",
 		"customerCountry": "Netherlands",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 314,
@@ -2823,7 +2823,7 @@
 		"customerPhone": "(511) 753-9823",
 		"customerEmail": "hermanpadilla@google.edu",
 		"customerCountry": "Poland",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 315,
@@ -2832,7 +2832,7 @@
 		"customerPhone": "(803) 888-4618",
 		"customerEmail": "fletcherarmstrong6939@hotmail.org",
 		"customerCountry": "Pakistan",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 316,
@@ -2841,7 +2841,7 @@
 		"customerPhone": "(678) 984-6573",
 		"customerEmail": "geoffreysimmons5654@facebook.com",
 		"customerCountry": "Australia",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 317,
@@ -2850,7 +2850,7 @@
 		"customerPhone": "(111) 688-1793",
 		"customerEmail": "quamarlamb4555@adobe.org",
 		"customerCountry": "Vietnam",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 318,
@@ -2859,7 +2859,7 @@
 		"customerPhone": "(935) 330-7396",
 		"customerEmail": "joshuaholloway3183@outlook.org",
 		"customerCountry": "Chile",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 319,
@@ -2868,7 +2868,7 @@
 		"customerPhone": "(944) 573-9122",
 		"customerEmail": "myrasherman1697@icloud.com",
 		"customerCountry": "United States",
-		"customerStatus": "inactive"
+		"customerStatus": false
 	},
 	{
 		"id": 320,
@@ -2877,6 +2877,6 @@
 		"customerPhone": "(864) 647-1332",
 		"customerEmail": "abrakirby9110@tesla.ca",
 		"customerCountry": "Ukraine",
-		"customerStatus": "active"
+		"customerStatus": true
 	}
 ]

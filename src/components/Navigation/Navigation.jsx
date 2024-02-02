@@ -1,10 +1,6 @@
 import './Navigation.scss';
-import product from '../../img/icon/square.svg'
 import dashboard from '../../img/icon/keySquare.svg';
-import { Customers, Arrow } from '../Icons/Icons';
-import promote from '../../img/icon/discount-shape 1.svg';
-import income from '../../img/icon/wallet-money 2.svg';
-import help from '../../img/icon/message-question 1.svg';
+import { Product, Customers, Arrow, Income, Promote, Help } from '../Icons/Icons';
 import logo from '../../img/icon/setting.svg';
 import { ReactComponent as User } from '../../img/user.svg';
 import React from 'react';
@@ -71,17 +67,16 @@ export const Navigation = ({ borderColor }) => {
                 : "navigation__link"
               }
             >
-              <img src={product} alt="Product" className="navigation__icon" />
+              <Product className={"icon-stroke"}/>
               Product
               <Arrow className={"navigation__icon--arrow"} />
-
             </NavLink>
 
             <NavLink
               to="/customerslist"
               className={({ isActive }) => isActive ? "navigation__link--active" : "navigation__link"}
             >
-              <Customers className="rog" />
+              <Customers />
 
               Customers
 
@@ -92,30 +87,27 @@ export const Navigation = ({ borderColor }) => {
               to="/income"
               className={({ isActive }) => isActive ? "navigation__link--active" : "navigation__link"}
             >
-              <img src={income} alt="Income" className="navigation__icon" />
+              <Income />
               Income
               <Arrow className={"navigation__icon--arrow"} />
-
             </NavLink>
 
             <NavLink
               to="/promote"
               className={({ isActive }) => isActive ? "navigation__link--active" : "navigation__link"}
             >
-              <img src={promote} alt="promote" className="navigation__icon" />
+              <Promote className={"icon-stroke"} />
               Promote
               <Arrow className={"navigation__icon--arrow"} />
-
             </NavLink>
 
             <NavLink
               to="/help"
               className={({ isActive }) => isActive ? "navigation__link--active" : "navigation__link"}
             >
-              <img src={help} alt="help" className="navigation__icon" />
+              <Help className={"icon-stroke"} />
               Help
               <Arrow className={"navigation__icon--arrow"} />
-
             </NavLink>
           </nav>
         </div>

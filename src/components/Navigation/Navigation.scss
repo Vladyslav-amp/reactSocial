@@ -84,6 +84,11 @@
           stroke: #fff;
         }
       }
+
+      .icon-stroke {
+        fill: #fff;
+        stroke-width: .5;
+      }
     }
   }
 
@@ -92,6 +97,8 @@
       position: absolute;
       right: 8px;
     }
+
+    
   }
 
   &__user {
