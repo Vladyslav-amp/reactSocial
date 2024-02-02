@@ -5,7 +5,6 @@ import logo from '../../img/icon/setting.svg';
 import { ReactComponent as User } from '../../img/user.svg';
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-// import users from '../../data/users.json';
 
 export const Navigation = ({ borderColor }) => {
 
@@ -61,7 +60,7 @@ export const Navigation = ({ borderColor }) => {
             </NavLink>
 
             <NavLink
-              to="/product"
+              to="/productList"
               className={({ isActive }) => isActive
                 ? "navigation__link--active"
                 : "navigation__link"
