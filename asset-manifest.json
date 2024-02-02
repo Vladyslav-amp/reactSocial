@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactSocial/static/css/main.2c408f74.css",
+    "main.js": "/reactSocial/static/js/main.2c9a146f.js",
+    "static/media/user.svg": "/reactSocial/static/media/user.89ed6ef4134c0b62bfef381ba6668dd1.svg",
+    "static/media/setting.svg": "/reactSocial/static/media/setting.16efc67cdda9c1c8f945c02ce727c9af.svg",
+    "static/media/keySquare.svg": "/reactSocial/static/media/keySquare.d7539fec7e45a5c3bbaa0638746ffa26.svg",
+    "index.html": "/reactSocial/index.html",
+    "static/media/search.svg": "/reactSocial/static/media/search.5507ecb6ddb196588c9ccd7c1881b46c.svg",
+    "main.2c408f74.css.map": "/reactSocial/static/css/main.2c408f74.css.map",
+    "main.2c9a146f.js.map": "/reactSocial/static/js/main.2c9a146f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c408f74.css",
+    "static/js/main.2c9a146f.js"
+  ]
+}
