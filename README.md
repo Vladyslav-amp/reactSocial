@@ -45,7 +45,7 @@ It`s not ready block yet, need to fix and add some style for table.
 
 ## Demo
 
-[DEMO LINK]
+[DEMO LINK](https://vladyslav-amp.github.io/reactSocial/)
 
 ## 🛠 Skills
 React (Hooks), JavaScript, SASS, HTML
