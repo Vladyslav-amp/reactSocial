@@ -15,7 +15,7 @@ There are 5 main section:
  - Help
 
 ### Product
-##### Soon...
+I add logic for adding and removing products from list
 
 ### Customers
 This section show customers list with personal information and we can find some user by his name, city or phone.
